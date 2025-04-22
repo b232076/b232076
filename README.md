@@ -1,4 +1,4 @@
-## 👩🏾‍💻 About Me
+## 🌟 About Me
 
 Hi! I'm **Beatriz Moura**, a Computer Engineering student at **UNICAMP**, passionate about building impactful and user-centered software solutions. Here's a bit about me:
 
